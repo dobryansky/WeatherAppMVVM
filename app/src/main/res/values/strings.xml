@@ -9,4 +9,7 @@
     <string name="content_description_end_icon">input coordinates</string>
     <string name="lon_label">Ширина</string>
     <string name="lat_label">Долгота</string>
+    <string name="city_weather_list">City Weather List</string>
+    <string name="favorite_cities">Favorite Cities</string>
+    <string name="search_city">Search City</string>
 </resources>
